@@ -56,6 +56,7 @@ module.exports = (() => {
             { label: "128kbps", value: "128000" },
             { label: "384kbps", value: "3840000" },
             { label: "512kbps", value: "5120000" },
+            { label: "1024kbps", value: "10240000" },
         ],
       },
     ],
