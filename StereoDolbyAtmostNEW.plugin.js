@@ -1,6 +1,6 @@
 /**
  * @name StereoDolbyAtmostNEW
- * @version 0.0.4
+ * @version 0.0.5
  * @description Plugin yang membuat suara sound voice kamu lebih bagus daripada orang lain :b
  * @authorLink https://www.mafapianist.my.id
  * @website https://www.mafapianist.my.id
@@ -14,7 +14,7 @@ module.exports = (() => {
     info: {
       name: "StereoDolbyAtmostNEW",
       authors: [{ name: "Remake By Faris", discord_id: "656134149291376640" }],
-      version: "0.0.4",
+      version: "0.0.5",
       description:
         "Plugin yang membuat suara sound voice kamu lebih bagus daripada orang lain :b",
     },
