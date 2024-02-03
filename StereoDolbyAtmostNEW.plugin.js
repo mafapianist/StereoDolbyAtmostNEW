@@ -6,7 +6,7 @@
  * @website https://www.mafapianist.my.id
  * @source https://www.mafapianist.my.id
  * @invite Tm2spNRs
- * @updateUrl https://www.mafapianist.my.id
+ * @updateUrl https://raw.githubusercontent.com/mafapianist/StereoDolbyAtmostNEW/main/StereoDolbyAtmostNEW.plugin.js
  */
 module.exports = (() => {
   const config = {
